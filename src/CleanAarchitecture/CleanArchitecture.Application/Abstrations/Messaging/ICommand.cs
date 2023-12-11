@@ -9,4 +9,14 @@ namespace CleanArchitecture.Application.Abstrations.Messaging
     {
 
     }
+
+    public interface ICommand<TResponse> : IRequest<Result<TResponse>>
+    {
+
+    }
+
+    public interface IBaseCommand
+    {
+
+    }
 }
