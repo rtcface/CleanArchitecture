@@ -23,3 +23,4 @@
 /home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/refint/CleanArchitecture.Domain.dll
 /home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.pdb
 /home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/ref/CleanArchitecture.Domain.dll
+/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.sourcelink.json

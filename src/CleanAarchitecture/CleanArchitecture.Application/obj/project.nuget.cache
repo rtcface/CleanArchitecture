@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "V+GShXrRAhpL2D3+t5WSlQiyyo5Coxw8kbp4nrCI8JiUllNCUF9BIK3TmDxSFMMKKf1Oi9+FAl5iAZ+nLgjBaw==",
+  "dgSpecHash": "iCFAdLKVqbLz/oViT8QJRJSHYt4qNOH4Uhh9NjkfGNbvmncWGXxITwxlEkybq2b2aqNw4RBJwMdJXWmRKJPQxw==",
   "success": true,
-  "projectFilePath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+  "projectFilePath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
-    "/home/rtepehua/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512",
-    "/home/rtepehua/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
-    "/home/rtepehua/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/home/rtepehua/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "/home/devcool/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512",
+    "/home/devcool/.nuget/packages/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.sha512",
+    "/home/devcool/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.8.0/fluentvalidation.dependencyinjectionextensions.11.8.0.nupkg.sha512",
+    "/home/devcool/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/home/devcool/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/devcool/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-rc.2.23479.6/microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "/home/devcool/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0-rc.2.23479.6/microsoft.extensions.logging.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512"
   ],
   "logs": []
 }
