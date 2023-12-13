@@ -16,3 +16,5 @@
 /home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/obj/Debug/net8.0/refint/CleanArchitecture.Infrastruture.dll
 /home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/obj/Debug/net8.0/CleanArchitecture.Infrastruture.pdb
 /home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/obj/Debug/net8.0/ref/CleanArchitecture.Infrastruture.dll
+/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/bin/Debug/net8.0/CleanArchitecture.Infrastruture.runtimeconfig.json
+/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/obj/Debug/net8.0/CleanArchitecture.Infrastruture.genruntimeconfig.cache

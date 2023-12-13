@@ -31,6 +31,8 @@ namespace CleanArchitecture.Infrastruture.Configurations
                 priceBuilder.Property(moneda => moneda.tipoMoneda)
                 .HasConversion(tipoMoneda => tipoMoneda.Codigo, codigo => TipoMoneda.FromCodigo(codigo!));
             });
+
+            builder.Property<uint>("Version").IsRowVersion();
         }
     }
 }
