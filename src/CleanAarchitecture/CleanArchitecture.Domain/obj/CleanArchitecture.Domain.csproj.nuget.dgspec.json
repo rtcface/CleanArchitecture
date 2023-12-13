@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {}
+    "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {}
   },
   "projects": {
-    "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+    "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+        "projectUniqueName": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
         "projectName": "CleanArchitecture.Domain",
-        "projectPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
-        "packagesPath": "/home/rtepehua/.nuget/packages/",
-        "outputPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/obj/",
+        "projectPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+        "packagesPath": "/home/devcool/.nuget/packages/",
+        "outputPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rtepehua/.nuget/NuGet/NuGet.Config"
+          "/home/devcool/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/rtepehua/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
