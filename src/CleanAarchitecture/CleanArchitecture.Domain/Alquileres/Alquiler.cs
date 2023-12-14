@@ -8,6 +8,10 @@ namespace CleanArchitecture.Domain.Alquileres
 {
     public sealed class Alquiler : Entity
     {
+        private Alquiler()
+        {
+
+        }
         /* #region Constructor */
         private Alquiler(
             Guid id,

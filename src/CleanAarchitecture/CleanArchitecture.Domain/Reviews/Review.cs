@@ -9,6 +9,8 @@ namespace CleanArchitecture.Domain.Reviews
 {
     public sealed class Review : Entity
     {
+        private Review() { }
+
         /* #region Contructor */
         public Review(
             Guid id,

@@ -336,19 +336,19 @@
     ]
   },
   "packageFolders": {
-    "/home/rtepehua/.nuget/packages/": {}
+    "/home/devcool/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+      "projectUniqueName": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
       "projectName": "CleanArchitecture.Application",
-      "projectPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
-      "packagesPath": "/home/rtepehua/.nuget/packages/",
-      "outputPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/obj/",
+      "projectPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+      "packagesPath": "/home/devcool/.nuget/packages/",
+      "outputPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rtepehua/.nuget/NuGet/NuGet.Config"
+        "/home/devcool/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -360,8 +360,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
-              "projectPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
+            "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+              "projectPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
             }
           }
         }
@@ -409,7 +409,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/rtepehua/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
