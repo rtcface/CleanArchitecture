@@ -1,4 +1,5 @@
 
+using System.Runtime.InteropServices;
 using CleanArchitecture.Application.Abstrations.Data;
 using CleanArchitecture.Application.Abstrations.Messaging;
 using CleanArchitecture.Domain.Abstractions;
@@ -40,12 +41,16 @@ namespace CleanArchitecture.Application.Vehiculos.SearchVehiculos
             vh.vin AS Vin,
             vh.precio_monto AS Precio,
             vh.precio_tipo_moneda AS TipoMoneda,
-
+            vh.direccion_pais AS Pais,
+            vh.direccion_departamento as Departamento,
+            vh.direccion_provincia AS Provincia,
+            vh.direccion_ciudad AS Ciudad,
+            vh.direccion_calle AS Calle
             FROM vehiculos AS vh WHERE NOT EXISTS (
                 SELECT 1 FROM alquileres as al WHERE 
-                al.vehiculo_id = vh.id
+                al.vehiculo_id = vh.id AND
                 al.duracion_inicio <= @EndDate AND 
-                al.duracion_final >= @StartDate AND
+                al.duracion_fin >= @StartDate AND
                 al.status = ANY(@ActiveAlquilerStatuses)
             )
             """;

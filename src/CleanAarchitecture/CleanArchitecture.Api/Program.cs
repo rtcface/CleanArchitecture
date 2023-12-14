@@ -20,5 +20,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.ApplyMigration();
+app.SeedData();
+app.UseCustomExceptionHandler();
+
 app.MapControllers();
 app.Run();

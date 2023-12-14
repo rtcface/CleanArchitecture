@@ -121,3 +121,9 @@
 /home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
 /home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Api/bin/Debug/net8.0/Mono.TextTemplating.dll
 /home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Api/bin/Debug/net8.0/System.CodeDom.dll
+/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Api/bin/Debug/net8.0/Humanizer.dll
+/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Api/bin/Debug/net8.0/System.CodeDom.dll
+/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Api/bin/Debug/net8.0/Bogus.dll

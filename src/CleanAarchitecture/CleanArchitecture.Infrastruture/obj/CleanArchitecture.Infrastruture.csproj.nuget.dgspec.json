@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/CleanArchitecture.Infrastruture.csproj": {}
+    "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/CleanArchitecture.Infrastruture.csproj": {}
   },
   "projects": {
-    "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj": {
+    "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+        "projectUniqueName": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
         "projectName": "CleanArchitecture.Application",
-        "projectPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
-        "packagesPath": "/home/devcool/.nuget/packages/",
-        "outputPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/obj/",
+        "projectPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+        "packagesPath": "/home/rtepehua/.nuget/packages/",
+        "outputPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/devcool/.nuget/NuGet/NuGet.Config"
+          "/home/rtepehua/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
-                "projectPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
+              "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+                "projectPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -75,21 +75,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/rtepehua/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+    "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+        "projectUniqueName": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
         "projectName": "CleanArchitecture.Domain",
-        "projectPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
-        "packagesPath": "/home/devcool/.nuget/packages/",
-        "outputPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/obj/",
+        "projectPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+        "packagesPath": "/home/rtepehua/.nuget/packages/",
+        "outputPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/devcool/.nuget/NuGet/NuGet.Config"
+          "/home/rtepehua/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -134,21 +134,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/rtepehua/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/CleanArchitecture.Infrastruture.csproj": {
+    "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/CleanArchitecture.Infrastruture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/CleanArchitecture.Infrastruture.csproj",
+        "projectUniqueName": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/CleanArchitecture.Infrastruture.csproj",
         "projectName": "CleanArchitecture.Infrastruture",
-        "projectPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/CleanArchitecture.Infrastruture.csproj",
-        "packagesPath": "/home/devcool/.nuget/packages/",
-        "outputPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/obj/",
+        "projectPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/CleanArchitecture.Infrastruture.csproj",
+        "packagesPath": "/home/rtepehua/.nuget/packages/",
+        "outputPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Infrastruture/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/devcool/.nuget/NuGet/NuGet.Config"
+          "/home/rtepehua/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -160,8 +160,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj": {
-                "projectPath": "/home/devcool/Proyects/NET/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj"
+              "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj": {
+                "projectPath": "/home/rtepehua/Proyects/NetCore/CleanArchitecture/src/CleanAarchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj"
               }
             }
           }
@@ -219,7 +219,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/rtepehua/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -24,6 +24,7 @@ namespace CleanArchitecture.Api.Controllers.Vehiculos
         )
         {
             var query = new SearchVehiculosQuery(startDate, endDate);
+            Console.WriteLine("===========================================================", query.ToString());
             var resultados = await _sender.Send(query, cancellationToken);
             return Ok(resultados.Value);
         }
